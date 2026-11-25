@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Bollywood Movies">
+    <display-name lang="he">Bollywood Movies</display-name>
+    <icon src="https://www.yes.co.il/media/bsoc4ace/bollywood_movies.png" />
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <programme start="20261125122000 +0000" stop="20261125150000 +0000" channel="Bollywood Movies">
+    <title lang="he">ללכת על הכל בהודו</title>
+    <desc lang="he">פעולה. איש העולם התחתון מותיר אחריו צוואה אשר גורמת למלחמה בין שני גיסים. לתוך המלחמה הזו נקלע בטעות רופא שיניים תמים, אשר מנסה להתגרש. עם: אקשיי קומר, סוניל שטי, בימוי: ויקראם בהאט (הודו, 2002). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125170000 +0000" channel="Bollywood Movies">
+    <title lang="he">פצצה מתקתקת (2019)</title>
+    <desc lang="he">פעולה. מחבל מתאבד מאבד את זכרונו כשלגופו מחוברת פצצה. חוליית לוחמה בטרור יוצאת במצוד בנסיון להבין את תוכניות הטרור המתוכננות במומבאי. עם: קארן קפאדיה, סאני דאול, בימוי: בהזאד חמבטה (הודו, 2019). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125190000 +0000" channel="Bollywood Movies">
+    <title lang="he">טייסת הברזל</title>
+    <desc lang="he">דרמת מלחמה. במהלך מלחמת הודו-פקיסטן של 1965, טייס ביחידת חיל האוויר ההודי נעלם במשימה מסוכנת, ומפקדו יוצא למסע של חקירה. עם: אקשאי קומאר, ויר פהאריה, בימוי: סנדיפ קוולאני, אבישק אניל קאפור (הודו 2025) ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125211500 +0000" channel="Bollywood Movies">
+    <title lang="he">ניצחון האמת</title>
+    <desc lang="he">פעולה. צייר לוקח על עצמו להילחם בשחיתות בהודו ולהרוג שוטרים מושחתים. כשהשוטרים מתחילים לפחד, קצין משטרה קשוח מחליט למצוא את העבריין. עם: ג'ון אברהם, מאנוג' בג'פאי, בימוי: מילאפ זאברי (הודו, 2018). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261125211500 +0000" stop="20261126000500 +0000" channel="Bollywood Movies">
+    <title lang="he">שותף לסוד</title>
+    <desc lang="he">מתח. זוג מופיע יחד עם להקתו על ספינת שייט. במהלך השייט נרקם רומן בין בעל הספינה לאישה, ומתחיל משולש אהבה סוער. עם: בובי דאול, אקשיי קהאנה, בימוי: עבאס אליבהי בורמוולה (הודו, 2002). ש.ח.(n)</desc>
+  </programme>
+</tv>
