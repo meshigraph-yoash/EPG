@@ -1,54 +1,17 @@
 ﻿[        ] 
-[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V5.6.0.0            
+[        ]   WebGrab+Plus/w MDB & REX Postprocess -- version V5.6.1.0 -- Playwright Evaluation  
 [        ] 
-[        ]                                 Jan van Straaten                                
-[        ]                              Francis De Paemeleere                              
+[        ]                                   Jan van Straaten                                   
+[        ]                                 Francis De Paemeleere                                
 [        ] 
-[        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
-[        ] --------------------------------------------------------------------------------
+[        ] thanks to Paul Weterings, Mat8861, Blackbear199, kevev and all the contributing users
+[        ] -------------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 26/11/2026 11:49:25
+[        ] Job started at 26/11/2026 14:07:02
 [  Debug ] 
-[  Debug ] Running  on: Microsoft Windows NT 10.0.19045.0
+[  Debug ] Running  on: Unix 7.0.0.1020
 [  Debug ] Environment: 9.0.23
 [        ] 
 [  Info  ] Checking Internet ..
-[  Info  ] Single timezones file created at : C:\Users\yoash\AppData\Local\WebGrab+Plus\timezonesdata.txt
-[  Info  ] Using timezone file: C:\Users\yoash\AppData\Local\WebGrab+Plus\timezonesdata.txt
-[  Info  ] siteini.pack is uptodate !
-[  Info  ] Reading config file: C:\Users\yoash\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
-[  Info  ] For License request/update data, see WGLicense.log.txt
-[  Info  ] Checking License ..
-[  Info  ] -  UserName "your webgrab+plus username"
-[  Info  ] -  Program benefits setting "un_registered_user"
-[  Info  ] -  Consider registration !
-[  Debug ] 
-[  Info  ] found: C:\Users\yoash\AppData\Local\WebGrab+Plus\yes.co.il.ini -- Revision 04
-[  Debug ] xmltv input file - C:\EPG\guide.xml - found
-[  Debug ] 7 superfluous shows removed
-[  Info  ] Found existing channel (xmltv_id=Bollywood Movies) in the config file
-[  Info  ] 
-[  Info  ] 
-[  Info  ] 
-[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
-[  Info  ] 
-[  Info  ] 
-[  Info  ] Group (0) :
-[  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
-[        ] 
-[  Info  ] (   1/1   ) YES.CO.IL -- chan. (xmltv_id=Bollywood Movies) -- mode Incremental
-[  Info  ] 
-[  Info  ]    Summary for update of       Bollywood Movies
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           7
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        7
-
-[  Debug ] 
-[  Debug ] 7 shows in 1 channels
-[  Debug ] 0 updated shows
-[  Debug ] 7 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 26/11/2026 11:49:28 done in 2s
+[Error   ] No internet !! Cannot run without it
+[  Info  ] WG++ exit ..
