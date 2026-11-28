@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Bollywood Movies">
+    <display-name lang="he">Bollywood Movies</display-name>
+    <icon src="https://www.yes.co.il/media/bsoc4ace/bollywood_movies.png" />
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <programme start="20261128064000 +0000" stop="20261128091000 +0000" channel="Bollywood Movies">
+    <title lang="he">השותף (2007)</title>
+    <desc lang="he">קומדיה רומנטית. דוקטור לאהבה, אשר עוזר לגברים להשיג את מושא אהבתם, מתקשה להשיג את האחת אותה הוא אוהב. עם: גובינדה, סלמן חאן, בימוי: דיוויד דאוון (הודו, 2007). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128091000 +0000" stop="20261128113500 +0000" channel="Bollywood Movies">
+    <title lang="he">גשר מעל הים</title>
+    <desc lang="he">אקשן. ארכיאולוג אתאיסט יוצא למשימה להוכיח שגשר ראם בן זמננו הוא גשר ראם המיתולוגי, לפני שכוחות רעים יהרסו אותו. עם: אקשאי קומאר, ג'קלין פרננדז, בימוי: אבהישק שרמה (הודו, 2022). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128113500 +0000" stop="20261128141500 +0000" channel="Bollywood Movies">
+    <title lang="he">טייס קרב</title>
+    <desc lang="he">אקשן. טייסי קרב בחיל האוויר ההודי מתמודדים עם איומים מסוכנים ונלחמים בטרוריסטים פקיסטניים באזור קשמיר תוך גילוי אומץ, מיומנות וקור רוח. עם: ריטיק רושאן, דיפיקה פדוקון, בימוי: סידהרט אנאנד (הודו 2024). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128141500 +0000" stop="20261128164000 +0000" channel="Bollywood Movies">
+    <title lang="he">אדון גדול אדון קטן</title>
+    <desc lang="he">קומדיה. שני שוטרים ושני גנבים זהים לחלוטין יוצרים שרשרת של טעויות, מרדפים והפתעות בקומדיית אקשן בלתי נשכחת. עם: אמיטב בצ'אן, גובינדה, בימוי: דייוויד דהוואן (הודו, 1998). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128164000 +0000" stop="20261128190000 +0000" channel="Bollywood Movies">
+    <title lang="he">שלך או שלי</title>
+    <desc lang="he">קומדיה. סאלוני מגלה שהיא בהיריון עם תאומים שכל אחד מהם מאב שונה. כשהיא מספרת את זה לאבות, כל אחד מהם מנסה להוכיח שהוא טוב יותר מהשני. עם: ויקי קושאל, טריפטי דמירי, בימוי: אנאנד טיווארי (הודו, 2024). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128211500 +0000" channel="Bollywood Movies">
+    <title lang="he">את מי לאהוב?</title>
+    <desc lang="he">קומדיה. גבר מוצא את עצמו בטעות נשוי לשלוש נשים בו-זמנית, ונאבק לשמור על סודו לפני שהכול יתפרק. עם: קאפיל שארמה, אלי אברם, בימוי: אבאס מוסטאן (הודו, 2015). ש.ח.(n)</desc>
+  </programme>
+  <programme start="20261128211500 +0000" stop="20261128233000 +0000" channel="Bollywood Movies">
+    <title lang="he">אהבה זה כואב</title>
+    <desc lang="he">דרמה. צעיר ממשפחה ממוצעת ובת ממשפחה עשירה מתאהבים, אך נתקלים בהתנגדות חברתית ומשפחתית בשל הבדלי מעמד, ונאלצים להיאבק על מערכת היחסים שלהם. עם: אישאן קהטר, ג'הנבי קאפור, בימוי: שאשנק קייטן (הודו 2018). ש.ח.(n)</desc>
+  </programme>
+</tv>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="tvplus.com.tr">
+  <channels>
+    <channel update="i" site="tvplus.com.tr" site_id="4541##logo/202608/20260818/14/1420188890395eb78424_op_0_XL.webp" xmltv_id="TV+ Keşfet Aksiyon">TV+ Keşfet Aksiyon</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4542##logo/202608/20260818/2/1410094847245eb88428_op_0_XL.webp" xmltv_id="TV+ Keşfet Drama">TV+ Keşfet Drama</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4400##logo/202506/20250623/94/1009257324535eb9542c_op_0_XL.webp" xmltv_id="tabii TV">tabii TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="12##logo/202506/20250623/24/0958196154045eb9b42e_op_0_XL.webp" xmltv_id="SİNEMA YERLİ">SİNEMA YERLİ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="166##logo/202506/20250623/0/0959572110155eb8f42a_op_0_XL.webp" xmltv_id="SİNEMA TV">SİNEMA TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="129##logo/202506/20250623/15/0955472569555eb88428_op_0_XL.webp" xmltv_id="SİNEMA TV AKSİYON">SİNEMA TV AKSİYON</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="154##logo/202506/20250623/2/0957104452425eb7f426_op_0_XL.webp" xmltv_id="SİNEMA KOMEDİ">SİNEMA KOMEDİ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="155##logo/202506/20250623/84/0954337290115eb8f42a_op_0_XL.webp" xmltv_id="SİNEMA AİLE">SİNEMA AİLE</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="181##logo/202506/20250623/8/0952164683935eb9542c_op_0_XL.webp" xmltv_id="SİNEMA TV 1001">SİNEMA TV 1001</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="61##logo/202506/20250623/33/0958538189585eb88428_op_0_XL.webp" xmltv_id="SİNEMA YERLİ 2">SİNEMA YERLİ 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="199##logo/202506/20250623/9/0953500773955eb9542c_op_0_XL.webp" xmltv_id="SİNEMA TV 2">SİNEMA TV 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="196##logo/202506/20250623/12/0956240722405eb7f426_op_0_XL.webp" xmltv_id="SİNEMA AKSİYON 2">SİNEMA AKSİYON 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="182##logo/202506/20250623/11/0955122162395eb7f426_op_0_XL.webp" xmltv_id="SİNEMA AİLE 2">SİNEMA AİLE 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="190##logo/202506/20250623/76/0952594953945eb9542c_op_0_XL.webp" xmltv_id="SİNEMA 1002">SİNEMA 1002</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4582##logo/202605/20260520/67/1206454336815eb88428_op_0_XL.png" xmltv_id="COSMO EN">COSMO EN</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="144##logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" xmltv_id="TRT1">TRT1</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="88##logo/202506/20250623/87/0937065579965eb8f42a_op_0_XL.webp" xmltv_id="KANAL D">KANAL D</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="89##logo/202506/20250623/64/1003520560175eb8f42a_op_0_XL.webp" xmltv_id="STAR TV">STAR TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="124##logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="130##logo/202506/20250623/96/0948464043915eb9542c_op_0_XL.webp" xmltv_id="SHOW TV">SHOW TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="93##logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" xmltv_id="NOW">NOW</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="134##logo/202506/20250623/98/1026575965175eb78424_op_0_XL.webp" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="86##logo/202506/20250623/45/0909261639285eb88428_op_0_XL.webp" xmltv_id="360">360</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2##logo/202506/20250623/1/0914264009815eb8f42a_op_0_XL.webp" xmltv_id="A2">A2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="174##logo/202506/20250623/19/1012439745095eb78424_op_0_XL.webp" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4362##logo/202603/20260322/86/2101131875925eb7f426_op_0_XL.webp" xmltv_id="CNBC-E">CNBC-E</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="95##logo/202512/20251231/11/2216507637295eb9b42e_op_0_XL.png" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="90##logo/202505/20250514/7/2112241317575eb7f426_op_0_XL.webp" xmltv_id="KANAL 7">KANAL 7</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="135##logo/202505/20250514/53/2113355458665eb9b42e_op_0_XL.webp" xmltv_id="BEYAZ TV">BEYAZ TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="179##logo/202505/20250514/2/2114544793695eb8f42a_op_0_XL.webp" xmltv_id="TV100">TV100</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2979##logo/202609/20260917/1/0757431662835eb78424_op_0_XL.webp" xmltv_id="FLASH HABER">FLASH HABER</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="180##logo/202506/20250623/14/0929073243795eb9542c_op_0_XL.webp" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="118##logo/202505/20250514/91/2117080969825eb88428_op_0_XL.webp" xmltv_id="BİZİM EV TV">BİZİM EV TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="188##logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" xmltv_id="TV8,5">TV8,5</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4461##logo/202506/20250623/80/0934306822275eb7f426_op_0_XL.webp" xmltv_id="GZT TV">GZT TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2859##logo/202506/20250623/38/1030132575195eb78424_op_0_XL.webp" xmltv_id="VAV TV">VAV TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="83##logo/202506/20250623/49/1013374195105eb78424_op_0_XL.webp" xmltv_id="TRT 2">TRT 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2899##logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp" xmltv_id="TV 4">TV 4</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4466##logo/202509/20250902/88/0930124769585eb7f426_op_0_XL.webp" xmltv_id="AS TV">AS TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4355##logo/202505/20250514/42/2119213578445eb78424_op_0_XL.webp" xmltv_id="EKOL TV">EKOL TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4335##logo/202505/20250514/90/2120336993725eb8f42a_op_0_XL.webp" xmltv_id="TURKHABER">TURKHABER</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="158##logo/202506/20250623/60/0924025077665eb78424_op_0_XL.webp" xmltv_id="CNN TÜRK">CNN TÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="81##logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" xmltv_id="NTV">NTV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="87##logo/202506/20250623/27/0935195248285eb78424_op_0_XL.webp" xmltv_id="HABERTÜRK">HABERTÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="160##logo/202506/20250623/78/0910272687595eb78424_op_0_XL.webp" xmltv_id="A HABER">A HABER</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="30##logo/202506/20250623/0/1020177474605eb9542c_op_0_XL.webp" xmltv_id="TRT HABER">TRT HABER</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="32##logo/202505/20250514/38/2121454663735eb8f42a_op_0_XL.webp" xmltv_id="24">24</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="96##logo/202506/20250623/89/0918582099855eb8f42a_op_0_XL.webp" xmltv_id="BLOOMBERG HT">BLOOMBERG HT</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="79##logo/202506/20250623/87/0912202162025eb7f426_op_0_XL.webp" xmltv_id="A PARA">A PARA</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="91##logo/202505/20250514/57/2112191538425eb78424_op_0_XL.webp" xmltv_id="HALK TV">HALK TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="189##logo/202505/20250514/40/2113584033685eb8f42a_op_0_XL.webp" xmltv_id="TELE1">TELE1</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="5##logo/202507/20250704/34/1109555471285eb88428_op_0_XL.png" xmltv_id="HABER GLOBAL">HABER GLOBAL</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="100##logo/202505/20250514/52/2116555980605eb9542c_op_0_XL.webp" xmltv_id="EKOTÜRK">EKOTÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="145##logo/202505/20250514/55/2118084418435eb78424_op_0_XL.webp" xmltv_id="ÜLKE TV">ÜLKE TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="34##logo/202505/20250514/48/2119142499835eb88428_op_0_XL.webp" xmltv_id="TGRT HABER">TGRT HABER</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="92##logo/202505/20250514/14/2120155178705eb9b42e_op_0_XL.webp" xmltv_id="TVNET">TVNET</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="13##logo/202505/20250514/14/2121266488455eb78424_op_0_XL.webp" xmltv_id="AKİT TV">AKİT TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="47##logo/202505/20250514/15/2122541200635eb9542c_op_0_XL.webp" xmltv_id="BENGÜTÜRK">BENGÜTÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2240##logo/202505/20250514/67/2123485258715eb9b42e_op_0_XL.webp" xmltv_id="ULUSAL KANAL">ULUSAL KANAL</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="111##logo/202506/20250602/65/2126065527005eb9b42e_op_0_XL.webp" xmltv_id="KRT TV">KRT TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4359##logo/202506/20250602/62/2136158827115eb88428_op_0_XL.webp" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4294##logo/202506/20250623/54/1000562034815eb9b42e_op_0_XL.webp" xmltv_id="SÖZCÜ TV">SÖZCÜ TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="31##logo/202506/20250623/64/1023220948135eb9b42e_op_0_XL.webp" xmltv_id="TRT SPOR">TRT SPOR</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="205##logo/202506/20250623/51/1022338012585eb8f42a_op_0_XL.webp" xmltv_id="TRT SPOR YILDIZ">TRT SPOR YILDIZ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="3##logo/202506/20250623/97/0913405847615eb78424_op_0_XL.webp" xmltv_id="A SPOR">A SPOR</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4396##logo/202506/20250623/58/0936073763845eb9542c_op_0_XL.webp" xmltv_id="HT SPOR">HT SPOR</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="148##logo/202505/20250528/26/1110480969645eb88428_op_0_XL.webp" xmltv_id="FB TV">FB TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4399##logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp" xmltv_id="tabii spor">tabii spor</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="11##logo/202506/20250623/54/1002317544415eb9542c_op_0_XL.webp" xmltv_id="S SPORT">S SPORT</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="170##logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp" xmltv_id="S SPORT 2">S SPORT 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="77##logo/202506/20250623/40/0931177763815eb9542c_op_0_XL.webp" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="106##logo/202506/20250623/35/0932019372255eb7f426_op_0_XL.webp" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="173##logo/202506/20250602/64/2133190739265eb9b42e_op_0_XL.webp" xmltv_id="SPORTS TV">SPORTS TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="21##logo/202510/20251030/80/0911523523045eb78424_op_0_XL.webp" xmltv_id="TRT BELGESEL">TRT BELGESEL</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4253##logo/202506/20250623/65/1010519852495eb8f42a_op_0_XL.webp" xmltv_id="TARIH TV">TARIH TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="59##logo/202605/20260522/84/1326394640335eb9542c_op_0_XL.png" xmltv_id="VIASAT EXPLORE">VIASAT EXPLORE</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2799##logo/202506/20250623/38/0942210759995eb8f42a_op_0_XL.webp" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4519##logo/202512/20251224/46/1721257078025eb88428_op_0_XL.webp" xmltv_id="BBC EARTH">BBC EARTH</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="44##logo/202605/20260522/31/1328509637785eb9b42e_op_0_XL.png" xmltv_id="VIASAT HISTORY">VIASAT HISTORY</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="8##logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="139##logo/202506/20250623/21/0942554483955eb9b42e_op_0_XL.webp" xmltv_id="NATIONAL GEOGRAPHIC WILD">NATIONAL GEOGRAPHIC WILD</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="45##logo/202506/20250623/31/0937564329435eb88428_op_0_XL.webp" xmltv_id="LOVE NATURE">LOVE NATURE</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="107##logo/202505/20250528/2/1058469624635eb9542c_op_0_XL.webp" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="29##logo/202506/20250623/96/0916453279325eb88428_op_0_XL.webp" xmltv_id="BABYTV">BABYTV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="37##logo/202505/20250528/63/1058038718565eb78424_op_0_XL.webp" xmltv_id="DUCK TV">DUCK TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="149##logo/202506/20250624/88/1037336465695eb9542c_op_0_XL.webp" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4520##logo/202512/20251225/9/1044192577565eb88428_op_0_XL.webp" xmltv_id="CBEEBIES">CBEEBIES</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4266##logo/202506/20250623/42/0941321873925eb9b42e_op_0_XL.webp" xmltv_id="MOONBUG KIDS TV">MOONBUG KIDS TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4279##logo/202506/20250623/64/0922254149885eb8f42a_op_0_XL.webp" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4353##logo/202506/20250623/20/0945187882335eb7f426_op_0_XL.webp" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4487##logo/202506/20250623/20/0944434563965eb9b42e_op_0_XL.webp" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2739##logo/202506/20250623/67/0946174419505eb88428_op_0_XL.webp" xmltv_id="NICKTOONS">NICKTOONS</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4521##logo/202512/20251225/63/1248001769645eb78424_op_0_XL.webp" xmltv_id="AZOOMEE">AZOOMEE</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="208##logo/202505/20250528/98/1054078408545eb78424_op_0_XL.webp" xmltv_id="DA VINCI">DA VINCI</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="20##logo/202506/20250623/15/0921355543825eb9b42e_op_0_XL.webp" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="99##logo/202506/20250623/92/1018103992555eb8f42a_op_0_XL.webp" xmltv_id="TRT ÇOCUK">TRT ÇOCUK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="102##logo/202506/20250623/81/0940064012305eb7f426_op_0_XL.webp" xmltv_id="MİNİKA ÇOCUK">MİNİKA ÇOCUK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="7##logo/202506/20250623/44/0939270193905eb9b42e_op_0_XL.webp" xmltv_id="MİNİKA GO">MİNİKA GO</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4465##logo/202506/20250623/18/1001382772445eb7f426_op_0_XL.webp" xmltv_id="SPACETOON">SPACETOON</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4319##logo/202506/20250623/88/1017245920655eb88428_op_0_XL.webp" xmltv_id="TRT DIYANET COCUK">TRT DIYANET COCUK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4492##logo/202601/20260115/35/1205459746305eb9b42e_op_0_XL.png" xmltv_id="TRT GENÇ">TRT GENÇ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4454##logo/202506/20250623/87/0923191703835eb9b42e_op_0_XL.webp" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4460##logo/202411/20241127/10/1907261733715eb8f42a_op_0_XL.png" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4459##logo/202506/20250623/2/0918173833795eb9b42e_op_0_XL.webp" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="101##logo/202506/20250623/52/0911261163695eb9542c_op_0_XL.webp" xmltv_id="A NEWS">A NEWS</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="38##logo/202506/20250623/77/1024521270725eb88428_op_0_XL.webp" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="6##logo/202505/20250528/71/0820434232935eb7f426_op_0_XL.webp" xmltv_id="AL JAZEERA ENGLISH">AL JAZEERA ENGLISH</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="94##logo/202505/20250528/98/1056125708555eb78424_op_0_XL.webp" xmltv_id="DEUTSCHE WELLE ENGLISH">DEUTSCHE WELLE ENGLISH</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="16##logo/202505/20250528/40/1113421345165eb8f42a_op_0_XL.webp" xmltv_id="FRANCE 24 ENGLISH">FRANCE 24 ENGLISH</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="171##logo/202505/20250528/71/1108497213305eb7f426_op_0_XL.webp" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="140##logo/202505/20250528/58/0819428388165eb88428_op_0_XL.webp" xmltv_id="AL JAZEERA ARABIC">AL JAZEERA ARABIC</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="161##logo/202505/20250528/0/1112466594665eb9542c_op_0_XL.webp" xmltv_id="FRANCE 24 ARABIC">FRANCE 24 ARABIC</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="142##logo/202506/20250602/91/2132258447085eb88428_op_0_XL.webp" xmltv_id="SKY NEWS ARABIA">SKY NEWS ARABIA</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="36##logo/202510/20251008/62/0807564339055eb8f42a_op_0_XL.webp" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="204##logo/202506/20250602/11/2128474286475eb8f42a_op_0_XL.webp" xmltv_id="NUMBER1 TV">NUMBER1 TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="172##logo/202506/20250602/30/2131106038015eb9542c_op_0_XL.webp" xmltv_id="POWER TV">POWER TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="153##logo/202505/20250528/43/1057170303285eb7f426_op_0_XL.webp" xmltv_id="DREAM TÜRK">DREAM TÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="98##logo/202601/20260122/62/2044357312935eb78424_op_0_XL.png" xmltv_id="NUMBER1 TURK">NUMBER1 TURK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="202##logo/202506/20250602/95/2130277456505eb8f42a_op_0_XL.webp" xmltv_id="POWER TURK">POWER TURK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="159##logo/202506/20250623/97/1021361684625eb9542c_op_0_XL.webp" xmltv_id="TRT MÜZİK">TRT MÜZİK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="41##logo/202605/20260521/46/1612443112885eb9b42e_op_0_XL.png" xmltv_id="NR1 RAP">NR1 RAP</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2280##logo/202506/20250602/42/2134458558035eb9542c_op_0_XL.webp" xmltv_id="TMB TV">TMB TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4481##logo/202506/20250623/6/1012063131215eb7f426_op_0_XL.webp" xmltv_id="TİVİ6">TİVİ6</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4488##logo/202506/20250623/1/1029375722595eb8f42a_op_0_XL.webp" xmltv_id="TYT TÜRK">TYT TÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4495##logo/202508/20250820/62/1032225959145eb78424_op_0_XL.png" xmltv_id="Bi Kanal">Bi Kanal</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="138##logo/202506/20250602/12/2126585812715eb7f426_op_0_XL.webp" xmltv_id="MELTEM TV">MELTEM TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="116##logo/202506/20250623/10/1014401672515eb8f42a_op_0_XL.webp" xmltv_id="TRT 3">TRT 3</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="156##logo/202506/20250623/4/1024005375155eb78424_op_0_XL.webp" xmltv_id="TRT TÜRK">TRT TÜRK</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="76##logo/202506/20250623/75/1019317040685eb88428_op_0_XL.webp" xmltv_id="TRT ARABI">TRT ARABI</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="193##logo/202506/20250623/94/1016079562535eb8f42a_op_0_XL.webp" xmltv_id="TRT AVAZ">TRT AVAZ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="10##logo/202506/20250623/13/1020562870695eb88428_op_0_XL.webp" xmltv_id="TRT KURDİ">TRT KURDİ</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="175##logo/202506/20250623/70/0927578653785eb9542c_op_0_XL.webp" xmltv_id="DİYANET TV">DİYANET TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="97##logo/202506/20250602/95/2131471279245eb9b42e_op_0_XL.webp" xmltv_id="SEMERKAND">SEMERKAND</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="163##logo/202505/20250528/39/1111559559655eb88428_op_0_XL.webp" xmltv_id="FM TV">FM TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4540##logo/202603/20260302/74/0829369628805eb9542c_op_0_XL.webp" xmltv_id="AL QURAN AL KAREEM">AL QURAN AL KAREEM</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4536##logo/202602/20260228/95/1455255627285eb88428_op_0_XL.webp" xmltv_id="AL SUNNAH AL NABAWIYAH">AL SUNNAH AL NABAWIYAH</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="141##logo/202506/20250602/86/2134066126545eb8f42a_op_0_XL.webp" xmltv_id="TARIM TV">TARIM TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2279##logo/202505/20250528/34/1051257598535eb78424_op_0_XL.webp" xmltv_id="ÇİFTÇİ TV">ÇİFTÇİ TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="4583##logo/202605/20260524/46/1216529377295eb9542c_op_0_XL.webp" xmltv_id="AGRO TV">AGRO TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2300##logo/202506/20250623/71/1018448660675eb88428_op_0_XL.webp" xmltv_id="TRT EBA">TRT EBA</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="110##logo/202505/20250528/18/1116313949665eb88428_op_0_XL.webp" xmltv_id="KADIRGA TV">KADIRGA TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="63##logo/202506/20250602/52/2124482441865eb9542c_op_0_XL.webp" xmltv_id="KONTV">KONTV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2359##logo/202506/20250602/45/2121305491855eb9542c_op_0_XL.webp" xmltv_id="KANAL 23">KANAL 23</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="114##logo/202506/20250602/66/2118544642045eb7f426_op_0_XL.webp" xmltv_id="KANAL V">KANAL V</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="143##logo/202505/20250528/63/1117501270845eb78424_op_0_XL.webp" xmltv_id="KANAL 26">KANAL 26</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="146##logo/202505/20250528/34/1114359774675eb9542c_op_0_XL.webp" xmltv_id="KANAL 33">KANAL 33</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="169##logo/202506/20250623/51/1055071280965eb88428_op_0_XL.webp" xmltv_id="ON6">ON6</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="133##logo/202505/20250528/15/0821315646215eb78424_op_0_XL.webp" xmltv_id="BRT 1">BRT 1</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="203##logo/202505/20250528/84/0823388142255eb9b42e_op_0_XL.webp" xmltv_id="BRT 2">BRT 2</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="112##logo/202506/20250602/69/2122339446995eb9b42e_op_0_XL.webp" xmltv_id="KIBRIS GENC TV">KIBRIS GENC TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="113##logo/202506/20250602/23/2123403057805eb88428_op_0_XL.webp" xmltv_id="KIBRIS TV">KIBRIS TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="42##logo/202506/20250602/3/2117410647765eb88428_op_0_XL.webp" xmltv_id="KANAL T">KANAL T</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="67##logo/202505/20250528/68/0818385552045eb9542c_op_0_XL.webp" xmltv_id="KIBRIS ADA TV">KIBRIS ADA TV</channel>
+    <channel update="i" site="tvplus.com.tr" site_id="2200##logo/202003/20200327/20200327085123135wqx_op_0_XL.png" xmltv_id="ŞÖMİNE PLUS">ŞÖMİNE PLUS</channel>
+  </channels>
+</site>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="cignalplay.com">
+  <channels>
+    <channel update="i" site="cignalplay.com" site_id="166677E4-33C5-4C3B-A09D-7B3442D99E77" xmltv_id="Bilyonaryo News Channel">Bilyonaryo News Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="44B03994-C303-4ACE-997C-91CAC493D0FC" xmltv_id="RPTV HD">RPTV HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="68C2D95A-A2A4-4C2B-93BE-41893C61210C" xmltv_id="HITS NOW">HITS NOW</channel>
+    <channel update="i" site="cignalplay.com" site_id="A3E582E5-CC1E-45FD-83F2-EE2DF88EF3FC" xmltv_id="PLIVE SDI 8">PLIVE SDI 8</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9392-C9E1-11EC-9D64-0242AC120002" xmltv_id="One PH">One PH</channel>
+    <channel update="i" site="cignalplay.com" site_id="F6E6BE40-4B9F-44B7-A42E-505754EE5FE4" xmltv_id="PLIVE SDI 7">PLIVE SDI 7</channel>
+    <channel update="i" site="cignalplay.com" site_id="40CFC2A0-0697-46D5-8DAA-C9C241B690EF" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="cignalplay.com" site_id="2C55AD7F-3589-48DA-BEC4-005200215975" xmltv_id="TV Maria">TV Maria</channel>
+    <channel update="i" site="cignalplay.com" site_id="C6AB65CE-37A0-4040-ABA7-021C669DBEE1" xmltv_id="Lotus Macau">Lotus Macau</channel>
+    <channel update="i" site="cignalplay.com" site_id="C5298B63-6A6F-4CEC-8AC7-07B482EFA587" xmltv_id="tvN Movies Pinoy">tvN Movies Pinoy</channel>
+    <channel update="i" site="cignalplay.com" site_id="F9FAA9AA-9DFD-49CB-BDF2-521B552BC289" xmltv_id="PLIVE SDI 6">PLIVE SDI 6</channel>
+    <channel update="i" site="cignalplay.com" site_id="40E328E7-FE69-4287-86EA-FA942A7EA302" xmltv_id="DreamWorks (Tagalized)">DreamWorks (Tagalized)</channel>
+    <channel update="i" site="cignalplay.com" site_id="66B5278C-75EA-4D93-AD2B-A5822A0F1056" xmltv_id="tvN Premium HD">tvN Premium HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="27530A94-7E3F-42FA-B33F-E1BA41286A89" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="cignalplay.com" site_id="3327FF64-3E52-42DE-B516-4629BFABA8C7" xmltv_id="NBA TV Philippines">NBA TV Philippines</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5468-C9E1-11EC-9D64-0242AC120002" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5580-C9E1-11EC-9D64-0242AC120002" xmltv_id="A2Z">A2Z</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5698-C9E1-11EC-9D64-0242AC120002" xmltv_id="DreamWorks HD">DreamWorks HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5BC0-C9E1-11EC-9D64-0242AC120002" xmltv_id="SPOTV HD">SPOTV HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5F08-C9E1-11EC-9D64-0242AC120002" xmltv_id="PTV 4">PTV 4</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6228-C9E1-11EC-9D64-0242AC120002" xmltv_id="Premier Sports HD">Premier Sports HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6520-C9E1-11EC-9D64-0242AC120002" xmltv_id="Rock Action">Rock Action</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6624-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tap Sports">Tap Sports</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6868-C9E1-11EC-9D64-0242AC120002" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A696C-C9E1-11EC-9D64-0242AC120002" xmltv_id="One Sports+">One Sports+</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6A70-C9E1-11EC-9D64-0242AC120002" xmltv_id="SPOTV 2 HD">SPOTV 2 HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6C78-C9E1-11EC-9D64-0242AC120002" xmltv_id="Rock Entertainment">Rock Entertainment</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7448-C9E1-11EC-9D64-0242AC120002" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7754-C9E1-11EC-9D64-0242AC120002" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7DDA-C9E1-11EC-9D64-0242AC120002" xmltv_id="One News">One News</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A80E6-C9E1-11EC-9D64-0242AC120002" xmltv_id="Lifetime SD">Lifetime SD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A847E-C9E1-11EC-9D64-0242AC120002" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A869A-C9E1-11EC-9D64-0242AC120002" xmltv_id="UAAP Varsity Channel">UAAP Varsity Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A899C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Premier Sports 2">Premier Sports 2</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A8BB8-C9E1-11EC-9D64-0242AC120002" xmltv_id="HITS HD">HITS HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9284-C9E1-11EC-9D64-0242AC120002" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9590-C9E1-11EC-9D64-0242AC120002" xmltv_id="DepEd TV">DepEd TV</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A97A2-C9E1-11EC-9D64-0242AC120002" xmltv_id="TV5 HD">TV5 HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9C02-C9E1-11EC-9D64-0242AC120002" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9D06-C9E1-11EC-9D64-0242AC120002" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AA47C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AA896-C9E1-11EC-9D64-0242AC120002" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AB750-C9E1-11EC-9D64-0242AC120002" xmltv_id="One Sports HD">One Sports HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABB06-C9E1-11EC-9D64-0242AC120002" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABC0A-C9E1-11EC-9D64-0242AC120002" xmltv_id="IBC 13">IBC 13</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABD18-C9E1-11EC-9D64-0242AC120002" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC36C-C9E1-11EC-9D64-0242AC120002" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC48E-C9E1-11EC-9D64-0242AC120002" xmltv_id="TAP Movies HD">TAP Movies HD</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC696-C9E1-11EC-9D64-0242AC120002" xmltv_id="Moonbug Kids">Moonbug Kids</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC9B6-C9E1-11EC-9D64-0242AC120002" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ACCD6-C9E1-11EC-9D64-0242AC120002" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ACF06-C9E1-11EC-9D64-0242AC120002" xmltv_id="HITS MOVIES">HITS MOVIES</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD122-C9E1-11EC-9D64-0242AC120002" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADA5A-C9E1-11EC-9D64-0242AC120002" xmltv_id="Knowledge Channel">Knowledge Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADB5E-C9E1-11EC-9D64-0242AC120002" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADD5C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Nickelodeon SD">Nickelodeon SD</channel>
+    <channel update="i" site="cignalplay.com" site_id="5B9C1E43-A762-4D85-BF19-3E6A2C70D814" xmltv_id="Abante News TV">Abante News TV</channel>
+    <channel update="i" site="cignalplay.com" site_id="A47D8F20-1C63-4E95-AB72-9F305D6C81E4" xmltv_id="NCAA NXT">NCAA NXT</channel>
+    <channel update="i" site="cignalplay.com" site_id="93EEB073-CE51-4D2E-928E-2E80F6C953C9" xmltv_id="Tapsilog">Tapsilog</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7650-C9E1-11EC-9D64-0242AC120002" xmltv_id="PBA Rush">PBA Rush</channel>
+    <channel update="i" site="cignalplay.com" site_id="F222CD8E-81E5-4D77-AC2F-86E7129C2DD7" xmltv_id="Kapatid Channel">Kapatid Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="09A671F2-39E7-47AF-BC9B-53AB53BC7FD0" xmltv_id="Global Trekker">Global Trekker</channel>
+    <channel update="i" site="cignalplay.com" site_id="DEFC81EE-883B-446F-BD47-21F5B7FE0730" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="cignalplay.com" site_id="596739AF-97E9-4FDA-A857-DB6A651DC234" xmltv_id="F1F">F1F</channel>
+    <channel update="i" site="cignalplay.com" site_id="DFC4D0E6-E225-4D57-804E-6714C8CB28F0" xmltv_id="A3G">A3G</channel>
+  </channels>
+</site>

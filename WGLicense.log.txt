@@ -1,11 +1,15 @@
 ﻿[        ] WebGrab++ license request and update log
-[        ] 2026/11/26 11:49
+[        ] 2026/11/28 04:54
 [  Info  ] Username         : your webgrab+plus username
 [  Info  ] Registered EMail : your registered email address
 [  Info  ] License Password : your license password
+[  Info  ] Single timezones file created at : /config/timezonesdata.txt
 [        ] 
-[  Info  ] No License update required
-[  Info  ] Next update, first run after : 2026/12/02 14:28
+[  Info  ] License request/update
+[  Info  ] Username 'your webgrab+plus username'
+[Warning ] A previous record dd 2026/11/28 for un_registered user 'your webgrab+plus username' found
+[Warning ] Correct the username in the license request :
+[  Info  ] <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />
 [Warning ] License has expired !
 [  Info  ] The program will run with performance settings : 'un_registered_user'
 [  Info  ] License check .. done

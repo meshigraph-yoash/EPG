@@ -7,11 +7,50 @@
 [        ] thanks to Paul Weterings, Mat8861, Blackbear199, kevev and all the contributing users
 [        ] -------------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 27/11/2026 04:59:17
+[        ] Job started at 28/11/2026 04:54:27
 [  Debug ] 
-[  Debug ] Running  on: Unix 7.0.0.1020
+[  Debug ] Running  on: Unix 7.0.0.1018
 [  Debug ] Environment: 9.0.23
 [        ] 
 [  Info  ] Checking Internet ..
-[Error   ] No internet !! Cannot run without it
-[  Info  ] WG++ exit ..
+[  Info  ] Single timezones file created at : /config/timezonesdata.txt
+[  Info  ] Downloading the latest WG++ siteini.pack
+[  Info  ] 
+- siteini.pack downloaded successfully
+[  Info  ] Using timezone file: /config/timezonesdata.txt
+[  Info  ] Reading config file: /config/WebGrab++.config.xml
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Info  ] Checking License ..
+[  Info  ] -  UserName "your webgrab+plus username"
+[  Info  ] -  Program benefits setting "un_registered_user"
+[  Info  ] -  Consider registration !
+[  Debug ] 
+[  Info  ] found: /config/yes.co.il.ini -- Revision 04
+[  Info  ] input file /config/C:\EPG\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
+[        ] 
+[  Info  ] (   1/1   ) YES.CO.IL -- chan. (xmltv_id=Bollywood Movies) -- mode Incremental
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Info  ]    Summary for update of       Bollywood Movies
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           7
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        7
+
+[  Debug ] 
+[  Debug ] 7 shows in 1 channels
+[  Debug ] 0 updated shows
+[  Debug ] 7 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 28/11/2026 04:54:42 done in 14s
